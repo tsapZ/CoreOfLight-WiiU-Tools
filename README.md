@@ -9,7 +9,7 @@ don't have to install Python:
 | Part | Version | Licence |
 | --- | --- | --- |
 | [superpatcher](https://github.com/SkyP4tcher/superpatcher) | v0.2.0 | LGPL-2.1-or-later |
-| [imagipatcher](https://github.com/SkyP4tcher/imagipatcher) | v0.2.1 | LGPL-2.1-or-later |
+| [imagipatcher](https://github.com/SkyP4tcher/imagipatcher) | v0.2.2 | LGPL-2.1-or-later |
 | Python, the embeddable build from python.org | 3.14.10 | PSF |
 | numpy (PyPI wheel) | 2.5.5 | BSD-3-Clause |
 | scipy (PyPI wheel) | 1.18.1 | BSD-3-Clause |
